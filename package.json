@@ -1,5 +1,5 @@
 {
-  "name": "actionnetcore",
+  "name": "gh-action-netcore",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,21 +8,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lauchacarro/actionNetCore.js.git"
+    "url": "git+https://github.com/lauchacarro/gh-action-netcore.js.git"
   },
   "keywords": [
     "action",
     "github",
-    "github",
-    "action",
     "netcore"
   ],
   "author": "Lautaro Carro",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/lauchacarro/actionNetCore.js/issues"
+    "url": "https://github.com/lauchacarro/gh-action-netcore.js/issues"
   },
-  "homepage": "https://github.com/lauchacarro/actionNetCore.js#readme",
+  "homepage": "https://github.com/lauchacarro/gh-action-netcore.js#readme",
   "dependencies": {
     "@actions/exec": "^1.0.3",
     "@actions/glob": "^0.1.0"
