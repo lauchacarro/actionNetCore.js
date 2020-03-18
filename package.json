@@ -1,0 +1,30 @@
+{
+  "name": "actionnetcore",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lauchacarro/actionNetCore.js.git"
+  },
+  "keywords": [
+    "action",
+    "github",
+    "github",
+    "action",
+    "netcore"
+  ],
+  "author": "Lautaro Carro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lauchacarro/actionNetCore.js/issues"
+  },
+  "homepage": "https://github.com/lauchacarro/actionNetCore.js#readme",
+  "dependencies": {
+    "@actions/exec": "^1.0.3",
+    "@actions/glob": "^0.1.0"
+  }
+}
